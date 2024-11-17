@@ -1,0 +1,9 @@
+Choose one problem related to regression (students having even registration number) or
+ classification (students having odd registration numbers) from data repositories like UCI Machine Learning, Kaggle etc. 
+Divide the data set into training, testing and validation sets. Develop a neural network model with one hidden layer.
+ Use appropriate values of hyperparameters like learning rate, regularization parameter, 
+number of neurons/units in hidden layer etc. Train you model on training set and use early stopping criteria using validation set. 
+Demonstrate when your model stops learning due to early stopping using graph of training/validation loss vs iterations.
+ Test accuracy of your model on unseen  data set and show results using appropriate measures like accuracy. 
+Precision, recall, F1 measure, Mean square error whichever is suitable. Write one page report explaining your technique, 
+results and discussion etc. Upload the single zip file on MS teams before the deadline. 
